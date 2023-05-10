@@ -25,8 +25,14 @@ Save it in the Downloads directory as the script expects it to be in the Downloa
 
 ## Usage
 
+```sh
+git clone https://github.com/divine-architect/TuxThePenguinHearted.git
 
+cd TuxThePenguinHearted
 
+sh aoe2de.sh
+```
+**NOTE: It will prompt you to enter the sudo password to use the cabextract command, if you do not trust the script you can always do this manually or read the script for yourself.**
 
 ## Issue
 Open issues if any
