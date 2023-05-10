@@ -2,7 +2,7 @@
 TTPH is a simple bash script to configure your age of empires 2 de installation to not go out of sync during multiplayer.
 
 ## About
-A simple script to install required dlls and other dependencies for aoe2 de mp to run smoothly, based on [this]() reddit thread
+A simple script to install required dlls and other dependencies for aoe2 de mp to run smoothly, based on [this](https://www.reddit.com/r/aoe2/comments/dwuplr/how_to_run_age_of_empires_2_definitive_edition_on/) reddit thread
 
 >  How to install it with Steamplay:
 Enable Steamplay in your Linux Steam settings (Steam -> Settings -> Steamplay, select Enable Steam play for all titles and then run other titles with Proton. Proton 4.11 seems to work best since some people reported problems on other proton versions.
@@ -22,6 +22,12 @@ You can do that with the following commands:
 Also note that the `.exe` binary from the source is bound to break, so use it from this site --> https://www.microsoft.com/en-us/download/confirmation.aspx?id=48145
 
 Save it in the Downloads directory as the script expects it to be in the Downloads directory
+
+
+## Important
+
+Enable steamplay under settings and then use proton 7.x as your preferred proton version since this worked for me.
+if 7.x doesnt work keep experimenting with other versions, once you're done with that the game should start but you'll only be able to play offline, to be able to play one use the script or use the commands in the script to do it manually.
 
 ## Usage
 
