@@ -2,7 +2,7 @@
 TTPH is a simple bash script to configure your age of empires 2 de installation to not go out of sync during multiplayer.
 
 
-![TuxTheLionHearted]("http://some_place.com/image.png")
+![TuxTheLionHearted]("[http://some_place.com/image.png](https://github.com/divine-architect/TuxThePenguinHearted/blob/main/tux.png)")
 
 
 ## About
