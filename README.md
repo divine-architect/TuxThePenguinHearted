@@ -1,6 +1,10 @@
 # TuxThePenguinHearted
 TTPH is a simple bash script to configure your age of empires 2 de installation to not go out of sync during multiplayer.
 
+<p align="center">
+  <img src="[http://some_place.com/image.png](https://raw.githubusercontent.com/divine-architect/TuxThePenguinHearted/main/tux.png)" />
+</p>
+
 ## About
 A simple script to install required dlls and other dependencies for aoe2 de mp to run smoothly, based on [this](https://www.reddit.com/r/aoe2/comments/dwuplr/how_to_run_age_of_empires_2_definitive_edition_on/) reddit thread
 
